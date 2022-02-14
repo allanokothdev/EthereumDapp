@@ -1,0 +1,14 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Allan Okoth",
+  "license": "ISC"
+}
